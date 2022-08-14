@@ -1,0 +1,21 @@
+c:\users\may\documents\visual studio 2012\Projects\RegistroEscuela\RegistroEscuela\bin\Debug\RegistroEscuela.exe.config
+C:\Users\May\Documents\Visual Studio 2012\Projects\RegistroEscuela\RegistroEscuela\bin\Debug\RegistroEscuela.exe
+C:\Users\May\Documents\Visual Studio 2012\Projects\RegistroEscuela\RegistroEscuela\bin\Debug\RegistroEscuela.pdb
+C:\Users\May\Documents\Visual Studio 2012\Projects\RegistroEscuela\RegistroEscuela\obj\Debug\RegistroEscuela.csprojResolveAssemblyReference.cache
+C:\Users\May\Documents\Visual Studio 2012\Projects\RegistroEscuela\RegistroEscuela\obj\Debug\RegistroEscuela.exe
+C:\Users\May\Documents\Visual Studio 2012\Projects\RegistroEscuela\RegistroEscuela\obj\Debug\RegistroEscuela.pdb
+C:\Users\May\Desktop\RegistroEscuela\RegistroEscuela\bin\Debug\RegistroEscuela.exe.config
+C:\Users\May\Desktop\RegistroEscuela\RegistroEscuela\obj\Debug\RegistroEscuela.exe
+C:\Users\May\Desktop\RegistroEscuela\RegistroEscuela\obj\Debug\RegistroEscuela.pdb
+C:\Users\May\Desktop\RegistroEscuela\RegistroEscuela\bin\Debug\RegistroEscuela.exe
+C:\Users\May\Desktop\RegistroEscuela\RegistroEscuela\bin\Debug\RegistroEscuela.pdb
+C:\Users\May\Desktop\RegistroEscuela\RegistroEscuela\obj\Debug\RegistroEscuela.csprojResolveAssemblyReference.cache
+E:\RegistroEscuela\RegistroEscuela\bin\Debug\RegistroEscuela.exe.config
+E:\RegistroEscuela\RegistroEscuela\obj\Debug\RegistroEscuela.exe
+E:\RegistroEscuela\RegistroEscuela\obj\Debug\RegistroEscuela.pdb
+C:\Users\May\Desktop\RegistroEscuela\bin\Debug\RegistroEscuela.exe.config
+C:\Users\May\Desktop\RegistroEscuela\obj\Debug\RegistroEscuela.exe
+C:\Users\May\Desktop\RegistroEscuela\obj\Debug\RegistroEscuela.pdb
+C:\Users\May\Desktop\RegistroEscuela\bin\Debug\RegistroEscuela.exe
+C:\Users\May\Desktop\RegistroEscuela\bin\Debug\RegistroEscuela.pdb
+C:\Users\May\Desktop\RegistroEscuela\obj\Debug\RegistroEscuela.csprojResolveAssemblyReference.cache
